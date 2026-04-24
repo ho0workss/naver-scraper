@@ -1,0 +1,10 @@
+# 스크래퍼
+playwright>=1.44.0
+
+# 데이터 처리 / 출력
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Google Sheets 업로드 (선택)
+gspread>=6.0.0
+google-auth>=2.0.0
